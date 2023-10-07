@@ -1,9 +1,9 @@
 @font-face {
     font-family: 'Caviar Dreams';
-    src: url('font/CaviarDreams.eot');
-    src: url('font/CaviarDreams.eot?#iefix') format('embedded-opentype'),
-        url('font/CaviarDreams.woff2') format('woff2'),
-        url('font/CaviarDreams.ttf') format('truetype');
+    src: url('CaviarDreams.eot');
+    src: url('CaviarDreams.eot?#iefix') format('embedded-opentype'),
+        url('CaviarDreams.woff2') format('woff2'),
+        url('CaviarDreams.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -11,10 +11,10 @@
 
 @font-face {
     font-family: 'Caviar Dreams';
-    src: url('font/CaviarDreams-Bold.eot');
-    src: url('font/CaviarDreams-Bold.eot?#iefix') format('embedded-opentype'),
-        url('font/CaviarDreams-Bold.woff2') format('woff2'),
-        url('font/CaviarDreams-Bold.ttf') format('truetype');
+    src: url('CaviarDreams-Bold.eot');
+    src: url('CaviarDreams-Bold.eot?#iefix') format('embedded-opentype'),
+        url('CaviarDreams-Bold.woff2') format('woff2'),
+        url('CaviarDreams-Bold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
